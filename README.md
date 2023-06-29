@@ -1,2 +1,2 @@
-# investment-tracker-app
-Investment Tracker React Native App
+# break-timer-app
+react native app
